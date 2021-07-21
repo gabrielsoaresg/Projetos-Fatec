@@ -1,0 +1,20 @@
+C:\Gabriel\C#\C# POO\CalculadoraForms\bin\Debug\CalculadoraForms.exe.config
+C:\Gabriel\C#\C# POO\CalculadoraForms\bin\Debug\CalculadoraForms.exe
+C:\Gabriel\C#\C# POO\CalculadoraForms\bin\Debug\CalculadoraForms.pdb
+C:\Gabriel\C#\C# POO\CalculadoraForms\obj\Debug\CalculadoraForms.csprojAssemblyReference.cache
+C:\Gabriel\C#\C# POO\CalculadoraForms\obj\Debug\CalculadoraForms.Form1.resources
+C:\Gabriel\C#\C# POO\CalculadoraForms\obj\Debug\CalculadoraForms.Properties.Resources.resources
+C:\Gabriel\C#\C# POO\CalculadoraForms\obj\Debug\CalculadoraForms.csproj.GenerateResource.cache
+C:\Gabriel\C#\C# POO\CalculadoraForms\obj\Debug\CalculadoraForms.csproj.CoreCompileInputs.cache
+C:\Gabriel\C#\C# POO\CalculadoraForms\obj\Debug\CalculadoraForms.exe
+C:\Gabriel\C#\C# POO\CalculadoraForms\obj\Debug\CalculadoraForms.pdb
+C:\Gabriel\GitHub\Projetos-Fatec\CalculadoraForms\obj\Debug\CalculadoraForms.csprojAssemblyReference.cache
+C:\Gabriel\GitHub\Projetos-Fatec\CalculadoraForms\obj\Debug\CalculadoraForms.Form1.resources
+C:\Gabriel\GitHub\Projetos-Fatec\CalculadoraForms\obj\Debug\CalculadoraForms.Properties.Resources.resources
+C:\Gabriel\GitHub\Projetos-Fatec\CalculadoraForms\obj\Debug\CalculadoraForms.csproj.GenerateResource.cache
+C:\Gabriel\GitHub\Projetos-Fatec\CalculadoraForms\obj\Debug\CalculadoraForms.csproj.CoreCompileInputs.cache
+C:\Gabriel\GitHub\Projetos-Fatec\CalculadoraForms\obj\Debug\CalculadoraForms.exe
+C:\Gabriel\GitHub\Projetos-Fatec\CalculadoraForms\obj\Debug\CalculadoraForms.pdb
+C:\Gabriel\GitHub\Projetos-Fatec\CalculadoraForms\bin\Debug\CalculadoraForms.exe.config
+C:\Gabriel\GitHub\Projetos-Fatec\CalculadoraForms\bin\Debug\CalculadoraForms.exe
+C:\Gabriel\GitHub\Projetos-Fatec\CalculadoraForms\bin\Debug\CalculadoraForms.pdb
