@@ -1,0 +1,16 @@
+C:\Gabriel\C#\SCRIPTS\Aplicativo\bin\Debug\net5.0\Aplicativo.exe
+C:\Gabriel\C#\SCRIPTS\Aplicativo\bin\Debug\net5.0\Aplicativo.deps.json
+C:\Gabriel\C#\SCRIPTS\Aplicativo\bin\Debug\net5.0\Aplicativo.runtimeconfig.json
+C:\Gabriel\C#\SCRIPTS\Aplicativo\bin\Debug\net5.0\Aplicativo.runtimeconfig.dev.json
+C:\Gabriel\C#\SCRIPTS\Aplicativo\bin\Debug\net5.0\Aplicativo.dll
+C:\Gabriel\C#\SCRIPTS\Aplicativo\bin\Debug\net5.0\ref\Aplicativo.dll
+C:\Gabriel\C#\SCRIPTS\Aplicativo\bin\Debug\net5.0\Aplicativo.pdb
+C:\Gabriel\C#\SCRIPTS\Aplicativo\obj\Debug\net5.0\Aplicativo.csprojAssemblyReference.cache
+C:\Gabriel\C#\SCRIPTS\Aplicativo\obj\Debug\net5.0\Aplicativo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gabriel\C#\SCRIPTS\Aplicativo\obj\Debug\net5.0\Aplicativo.AssemblyInfoInputs.cache
+C:\Gabriel\C#\SCRIPTS\Aplicativo\obj\Debug\net5.0\Aplicativo.AssemblyInfo.cs
+C:\Gabriel\C#\SCRIPTS\Aplicativo\obj\Debug\net5.0\Aplicativo.csproj.CoreCompileInputs.cache
+C:\Gabriel\C#\SCRIPTS\Aplicativo\obj\Debug\net5.0\Aplicativo.dll
+C:\Gabriel\C#\SCRIPTS\Aplicativo\obj\Debug\net5.0\ref\Aplicativo.dll
+C:\Gabriel\C#\SCRIPTS\Aplicativo\obj\Debug\net5.0\Aplicativo.pdb
+C:\Gabriel\C#\SCRIPTS\Aplicativo\obj\Debug\net5.0\Aplicativo.genruntimeconfig.cache
