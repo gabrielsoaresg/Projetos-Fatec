@@ -1,0 +1,13 @@
+C:\Users\teste\Desktop\Lista Ligada\bin\Debug\Lista Ligada.exe.config
+C:\Users\teste\Desktop\Lista Ligada\bin\Debug\Lista Ligada.exe
+C:\Users\teste\Desktop\Lista Ligada\bin\Debug\Lista Ligada.pdb
+C:\Users\teste\Desktop\Lista Ligada\obj\Debug\Lista Ligada.csprojAssemblyReference.cache
+C:\Users\teste\Desktop\Lista Ligada\obj\Debug\Lista Ligada.exe
+C:\Users\teste\Desktop\Lista Ligada\obj\Debug\Lista Ligada.pdb
+C:\Users\G~\Downloads\Lista Ligada\bin\Debug\Lista Ligada.exe.config
+C:\Users\G~\Downloads\Lista Ligada\bin\Debug\Lista Ligada.exe
+C:\Users\G~\Downloads\Lista Ligada\bin\Debug\Lista Ligada.pdb
+C:\Users\G~\Downloads\Lista Ligada\obj\Debug\Lista Ligada.csproj.AssemblyReference.cache
+C:\Users\G~\Downloads\Lista Ligada\obj\Debug\Lista Ligada.csproj.CoreCompileInputs.cache
+C:\Users\G~\Downloads\Lista Ligada\obj\Debug\Lista Ligada.exe
+C:\Users\G~\Downloads\Lista Ligada\obj\Debug\Lista Ligada.pdb
