@@ -46,19 +46,20 @@ namespace Lista_Ligada
            
         }
 
-        public void remover()
+        public No remover()
         {
-            No item;
+            No item = inicio;
             if (vazia())
             {
                 Console.WriteLine("Lista Vazia!");
             }
             else
             {
-                item = inicio;
+
                 inicio = inicio.proximo;
                 tamanho--;
             }
+            return item;
         }
         public bool procurar(int item)
         {
@@ -79,5 +80,63 @@ namespace Lista_Ligada
             }
             return false;
         }
+
+        public No Ultimo()
+        {
+            No ultimo = inicio;
+            for(No i = inicio; i != null; i = i.proximo)
+            {
+                ultimo = i;
+            }
+            return ultimo;
+        }
+
+        public void AdicionarFinal(int valor)
+        {
+            if (vazia())
+            {
+                adicionar(valor);
+            }
+            else
+            {
+                    No novoFinal = new No(valor);
+                    Ultimo().proximo = novoFinal;
+                    tamanho++;
+            }
+        }
+
+        public No Penultimo()
+        {
+            No penultimo = inicio;
+            for (No i = inicio; i.proximo != null; i = i.proximo)
+            {
+                penultimo = i;
+            }
+            return penultimo;
+        }
+
+        public No RemoverFinal()
+        {
+            No aux = inicio;
+            if (!vazia())
+            {
+                if(tamanho == 1)
+                {
+                    aux = remover();
+                }
+                else
+                {
+                    aux = Ultimo();
+                    Penultimo().proximo = null;
+                    tamanho--;
+                }
+            }
+            else
+            {
+                Console.WriteLine("Lista Vazia!");
+            }
+            return aux;
+        }
+
     }
 }
